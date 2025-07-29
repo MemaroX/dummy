@@ -1,0 +1,1 @@
+Rename project to dummy and establish as foundational AI assistant repo
